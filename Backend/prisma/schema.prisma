@@ -12,7 +12,7 @@ datasource db {
 }
 
 model Student {
-  id        number      @id @default(autoincrement())
+  id        Int      @id @default(autoincrement())
   name      String
   course    String
 }
