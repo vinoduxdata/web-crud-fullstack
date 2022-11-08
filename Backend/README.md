@@ -13,7 +13,7 @@ $ npm install
 ```
 
 
-Edit .env file enter database details 
+Edit .env file to enter database details 
 
 DATABASE_URL="postgresql://USER_NAME:PASSWORD@localhost:5432/postgres?schema=public"
 
