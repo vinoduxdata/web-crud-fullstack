@@ -8,7 +8,7 @@ Once the Database is running then you can run
 $ cd backend
 ```
 
-## Installation
+### Installation
 
 ```bash
 $ npm install
@@ -20,7 +20,7 @@ Edit .env file enter database details
 DATABASE_URL="postgresql://<USER_NAME>:<PASSWORD>@localhost:5432/postgres?schema=public"
 
 
-## Running the app
+### Running the app
 
 ```bash
 # development
@@ -33,13 +33,13 @@ $ npm run start
 ```bash
 $ cd frontend
 ```
-## Installation
+### Installation
 
 ```bash
 $ npm install
 ```
 
-## Running the app
+### Running the app
 
 ```bash
 $ npm start
