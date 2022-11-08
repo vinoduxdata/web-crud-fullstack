@@ -15,7 +15,7 @@ $ npm install
 
 Edit .env file enter database details 
 
-DATABASE_URL="postgresql://<USER_NAME>:<PASSWORD>@localhost:5432/postgres?schema=public"
+DATABASE_URL="postgresql://<USER_NAME>: <PASSWORD> @localhost:5432/postgres?schema=public"
 
 
 ## Running the app
