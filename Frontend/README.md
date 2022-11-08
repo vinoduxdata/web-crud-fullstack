@@ -1,5 +1,10 @@
-## Frontend
+## NodeJs Version
+```bash
+V16.6.0
+```
 
+
+## Frontend
 ```bash
 $ cd frontend
 ```
