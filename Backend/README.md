@@ -22,10 +22,12 @@ DATABASE_URL="postgresql://USER_NAME:PASSWORD@localhost:5432/postgres?schema=pub
 ```bash
 $ npx prisma generate
 ```
-```bash
+
 
 ### Push your model to Database
+```bash
 $ npx prisma db push
+```
 
 ## Running the app
 ```bash
