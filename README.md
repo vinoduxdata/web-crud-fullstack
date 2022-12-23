@@ -1,4 +1,4 @@
-# web-crud-fullstack-postgres
+# web-crud-fullstack-react-postgres
 
 ## Pre-requisites
 - Postgres Database should be installed(Either on local or on server)
