@@ -1,4 +1,4 @@
-# web-crud-fullstack
+# web-crud-fullstack-postgres
 
 ## Pre-requisites
 - Postgres Database should be installed(Either on local or on server)
